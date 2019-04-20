@@ -1,0 +1,9 @@
+﻿  GNATS.cpp
+c:\users\dillon\source\repos\gnats\gnats\gnats.cpp(15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\dillon\source\repos\gnats\gnats\gnats.cpp(83): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\dillon\source\repos\gnats\gnats\gnats.cpp(90): warning C4018: '<': signed/unsigned mismatch
+  GNATS.vcxproj -> C:\Users\Dillon\source\repos\GNATS\Debug\GNATS.exe
